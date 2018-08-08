@@ -1,4 +1,39 @@
 @font-face {
-  font-family: 'MyWebFont';
+  font-family: 'Silkscreen';
   src: url('Silkscreen font.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
+
+
+/*------------------------- LEADERBOARD ------------------------ */
+
+
+
+/* jtech 4 ever <3: */
+font-size: 24px;
+color: #837D85;
+
+/* leaderboard: */
+font-size: 48px;
+color: #3F3B40;
+text-align: right;
+
+/* 404: */
+font-family: Silkscreen;
+font-size: 96px;
+color: #CBC9CC;
+text-align: right;
+
+/* board: */
+background: #F0F0ED;
+border: 1px solid #979797;
+box-shadow: 0 7px 13px 0 #50504E;
+
+/* board text */
+font-size: 18px;
+color: #5F5F5C;
+text-align: left;
+
+/* board focus: */
+background: rgba(216,216,216,0.73);
+border: 3px solid #FF0000;
+
